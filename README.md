@@ -1,20 +1,20 @@
 # Hi 👋, I'm Nikita Rathod
 
-💻 MERN Stack Developer | 🚀 Passionate about building real-world web applications
-🎯 Focused on improving DSA & Backend Development
+MERN Stack Developer | Passionate about building real-world web applications
+Focused on improving DSA & Backend Development
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Computer Engineering Graduate (CGPA: 8.75)
-* 🌱 Currently improving: Data Structures & Algorithms, Backend Systems
-* 💡 Interested in: Full Stack Development & Scalable Applications
-* ⚡ Love creating clean and user-friendly UI
+* Computer Engineering Graduate (CGPA: 8.75)
+* Currently improving: Data Structures & Algorithms, Backend Systems
+* Interested in: Full Stack Development & Scalable Applications
+* Love creating clean and user-friendly UI
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**
 C++ | JavaScript | HTML | CSS
@@ -30,9 +30,9 @@ Git | GitHub | VS Code
 
 ---
 
-## 📌 Projects
+## Projects
 
-### 🍔 Food Delivery App
+### Food Delivery App
 
 * Built with MERN + Stripe Integration
 * User authentication & cart system
@@ -43,7 +43,7 @@ Git | GitHub | VS Code
 
 ---
 
-### 📝 Notes Manager App
+### Notes Manager App
 
 * Full CRUD Notes system
 * User authentication
@@ -53,7 +53,7 @@ Git | GitHub | VS Code
 
 ---
 
-### ✅ To-Do List App
+### To-Do List App
 
 * Task management with authentication (JWT)
 * Add, update, delete tasks
@@ -63,23 +63,16 @@ Git | GitHub | VS Code
 
 ---
 
-## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Nikitarathod2001\&show_icons=true\&theme=tokyonight)
+## Connect With Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitarathod2001\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔗 Connect With Me
-
-* 💼 LinkedIn: https://linkedin.com/in/nikita-rathod-101b711b0
-* 💻 GitHub: https://github.com/Nikitarathod2001
-* 🧠 LeetCode: https://leetcode.com/NikitaRathod16
-* 📧 Email: [nikitarathod3601@gmail.com](mailto:nikitarathod3601@gmail.com)
+* LinkedIn: https://linkedin.com/in/nikita-rathod-101b711b0
+* GitHub: https://github.com/Nikitarathod2001
+* LeetCode: https://leetcode.com/NikitaRathod16
+* Email: [nikitarathod3601@gmail.com](mailto:nikitarathod3601@gmail.com)
 
 ---
 
-## 🎨 Hobbies
+## Hobbies
 
-📚 Reading | 🎨 Drawing | 🖌️ Painting
+Reading | Drawing | Painting
