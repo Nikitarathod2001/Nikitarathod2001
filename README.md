@@ -5,11 +5,11 @@ Focused on improving DSA & Backend Development
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * Computer Engineering Graduate (CGPA: 8.75)
 * Currently improving: Data Structures & Algorithms, Backend Systems
-* Interested in: Full Stack Development & Scalable Applications
+* Interested in: Software Development, Full Stack Development & Scalable Applications
 * Love creating clean and user-friendly UI
 
 ---
