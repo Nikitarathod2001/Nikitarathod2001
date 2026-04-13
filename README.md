@@ -17,10 +17,13 @@ Focused on improving DSA & Backend Development
 ## Tech Stack
 
 **Languages:**
-C++ | JavaScript | HTML | CSS
+C++ | JavaScript 
 
-**Frameworks & Libraries:**
-React.js | Node.js | Express.js
+**Frontend:**
+HTML | CSS | React.js
+
+**Backend:**
+Node.js | Express.js
 
 **Databases:**
 MongoDB | MySQL
