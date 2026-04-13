@@ -17,19 +17,19 @@ Focused on improving DSA & Backend Development
 ## Tech Stack
 
 **Languages:**
-C++ | JavaScript 
+ C++ | JavaScript | Java 
 
 **Frontend:**
-HTML | CSS | React.js
+ HTML | CSS | React.js
 
 **Backend:**
-Node.js | Express.js
+ Node.js | Express.js
 
 **Databases:**
-MongoDB | MySQL
+ MongoDB | MySQL
 
 **Tools:**
-Git | GitHub | VS Code
+ Git | GitHub | VS Code
 
 ---
 
