@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi 👋, I'm Nikita Rathod
 
-<!--
-**Nikitarathod2001/Nikitarathod2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer | 🚀 Passionate about building real-world web applications
+🎯 Focused on improving DSA & Backend Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Computer Engineering Graduate (CGPA: 8.75)
+* 🌱 Currently improving: Data Structures & Algorithms, Backend Systems
+* 💡 Interested in: Full Stack Development & Scalable Applications
+* ⚡ Love creating clean and user-friendly UI
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+C++ | JavaScript | HTML | CSS
+
+**Frameworks & Libraries:**
+React.js | Node.js | Express.js
+
+**Databases:**
+MongoDB | MySQL
+
+**Tools:**
+Git | GitHub | VS Code
+
+---
+
+## 📌 Projects
+
+### 🍔 Food Delivery App
+
+* Built with MERN + Stripe Integration
+* User authentication & cart system
+* Admin panel for managing orders & products
+* Secure online payments
+
+🔗 Repo: https://github.com/Nikitarathod2001/Food-Delivery-Website.git
+
+---
+
+### 📝 Notes Manager App
+
+* Full CRUD Notes system
+* User authentication
+* Search & edit functionality
+
+🔗 Repo: https://github.com/Nikitarathod2001/notes-manager-app
+
+---
+
+### ✅ To-Do List App
+
+* Task management with authentication (JWT)
+* Add, update, delete tasks
+* MongoDB persistent storage
+
+🔗 Repo: https://github.com/Nikitarathod2001/to-do-list
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Nikitarathod2001\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitarathod2001\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/nikita-rathod-101b711b0
+* 💻 GitHub: https://github.com/Nikitarathod2001
+* 🧠 LeetCode: https://leetcode.com/NikitaRathod16
+* 📧 Email: [nikitarathod3601@gmail.com](mailto:nikitarathod3601@gmail.com)
+
+---
+
+## 🎨 Hobbies
+
+📚 Reading | 🎨 Drawing | 🖌️ Painting
