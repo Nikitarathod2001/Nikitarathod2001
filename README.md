@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nikita Rathod
+# Hi, I'm Nikita Rathod
 
 MERN Stack Developer | Passionate about building real-world web applications
 Focused on improving DSA & Backend Development
@@ -35,14 +35,15 @@ Focused on improving DSA & Backend Development
 
 ## Projects
 
-### Food Delivery App
+### StayFinder: Hotel Booking App
 
-* Built with MERN + Stripe Integration
-* User authentication & cart system
-* Admin panel for managing orders & products
-* Secure online payments
+* Built a full-stack hotel booking web application using the MERN stack.
+* Implemented JWT-based authentication, hotel search filters, wishlist, and booking features.
+* Developed REST APIs using Node.js and Express.js with MongoDB for data management.
+* Integrated Stripe Checkout and webhooks for secure online payment processing.
+* Created an admin dashboard for managing hotels, bookings, users, and revenue statistics.
 
-🔗 Repo: https://github.com/Nikitarathod2001/Food-Delivery-Website.git
+🔗 Repo: https://github.com/Nikitarathod2001/hotel-booking-app
 
 ---
 
