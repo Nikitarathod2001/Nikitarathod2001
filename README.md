@@ -44,6 +44,7 @@ Focused on improving DSA & Backend Development
 * Created an admin dashboard for managing hotels, bookings, users, and revenue statistics.
 
 🔗 Repo: https://github.com/Nikitarathod2001/hotel-booking-app
+
 🔗 Live Link: https://stayfinder-beryl.vercel.app/
 
 ---
