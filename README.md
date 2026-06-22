@@ -49,23 +49,17 @@ Focused on improving DSA & Backend Development
 
 ---
 
-### Notes Manager App
+### Real-Time Chat Application
 
-* Full CRUD Notes system
-* User authentication
-* Search & edit functionality
+* Developed a real-time chat application using React, Node.js, Express, MongoDB, and Socket.IO.
+* Implemented secure user authentication and enabled users to start conversations and exchange messages instantly.
+* Integrated Socket.IO for real-time messaging and typing indicators without requiring page refreshes.
+* Stored chat history in MongoDB and displayed message timestamps for better conversation tracking.
+* Built a responsive and user-friendly interface to provide a seamless chat experience across devices.
 
 🔗 Repo: https://github.com/Nikitarathod2001/notes-manager-app
 
----
-
-### To-Do List App
-
-* Task management with authentication (JWT)
-* Add, update, delete tasks
-* MongoDB persistent storage
-
-🔗 Repo: https://github.com/Nikitarathod2001/to-do-list
+🔗 Live Link: https://realtime-chat-app-iota-smoky.vercel.app
 
 ---
 
