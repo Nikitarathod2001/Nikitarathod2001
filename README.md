@@ -57,9 +57,9 @@ Focused on improving DSA & Backend Development
 * Stored chat history in MongoDB and displayed message timestamps for better conversation tracking.
 * Built a responsive and user-friendly interface to provide a seamless chat experience across devices.
 
-🔗 Repo: https://github.com/Nikitarathod2001/notes-manager-app
+🔗 Repo: https:
 
-🔗 Live Link: https://realtime-chat-app-iota-smoky.vercel.app
+🔗 Live Link: 
 
 ---
 
