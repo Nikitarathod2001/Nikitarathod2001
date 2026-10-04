@@ -51,15 +51,13 @@ Focused on improving DSA & Backend Development
 
 ### Real-Time Chat Application
 
-* Developed a real-time chat application using React, Node.js, Express, MongoDB, and Socket.IO.
-* Implemented secure user authentication and enabled users to start conversations and exchange messages instantly.
-* Integrated Socket.IO for real-time messaging and typing indicators without requiring page refreshes.
-* Stored chat history in MongoDB and displayed message timestamps for better conversation tracking.
-* Built a responsive and user-friendly interface to provide a seamless chat experience across devices.
+* Developed a real-time chat application using MongoDB, Express.js, React.js, Node.js, and Socket.IO.
+* Implemented JWT authentication, real-time messaging, typing indicators, online/offline status, message delivery/read status, user profiles, and Cloudinary image uploads.
+* Containerized the frontend and backend using Docker and deployed the application on AWS EC2 with Docker Compose and Nginx reverse proxy.
 
-🔗 Repo: https:
+🔗 Repo: https://github.com/Nikitarathod2001/realtime-chat-app
 
-🔗 Live Link: 
+🔗 Live Link: http://54.87.37.174
 
 ---
 
